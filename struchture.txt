@@ -1,0 +1,28 @@
+-----------><body>master extend korse body ke
+C:\xampp\htdocs\final\ReadyForce-Web-Laravel\platform\themes\jobbox\views\job-board\dashboard\layouts\master.blade.php
+----------->C:\xampp\htdocs\final\ReadyForce-Web-Laravel\platform\themes\jobbox\views\job-board\dashboard\layouts\body.blade.php
+=============================sidebar=================================
+ <div class="nav bg-success" style="margin-left: 100px; margin-top: 100px"><a class="btn btn-expanded"></a>
+        <nav class="nav-main-menu">
+            @include(JobBoardHelper::viewPath('dashboard.layouts.menu'))
+        </nav>
+    </div>
+
+=========================input field section==========================
+<div id="app" style="margin-top:1000px; margin-left:300px" class="bg-danger">
+                @yield('content')
+            </div>
+==========================header section===============================
+C:\xampp\htdocs\final\ReadyForce-Web-Laravel\platform\themes\jobbox\views\job-board\dashboard\layouts\header.blade.php
+
+
+C:\xampp\htdocs\practice\ReadyForce-Web-Laravel\platform\plugins\job-board\resources\views\themes\account\overview.blade.php
+C:\xampp\htdocs\practice1forhomeroute\ReadyForce-Web-Laravel\platform\themes\jobbox\views\job-board\account\overview.blade.php
+
+=======================================For ddesignning the sidebar menus==============================================
+C:\xampp\htdocs\practice1forhomeroute\ReadyForce-Web-Laravel\platform\themes\jobbox\views\job-board\dashboard\layouts\menu.blade.php
+
+
+==========================================================Array of route============================================
+C:\xampp\htdocs\practice1forhomeroute\ReadyForce-Web-Laravel\platform\plugins\job-board\routes\account.php
+C:\xampp\htdocs\practice1forhomeroute\ReadyForce-Web-Laravel\platform\plugins\job-board\src\Http\Controllers\Fronts\AccountController.php
